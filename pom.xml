@@ -7,7 +7,12 @@
     <groupId>dev.husein</groupId>
     <artifactId>RESTful-Microservices</artifactId>
     <version>1.0</version>
+    <packaging>war</packaging>
 
+    <build>
+        <plugins>
+        </plugins>
+    </build>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
@@ -21,5 +26,6 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
 
 </project>
