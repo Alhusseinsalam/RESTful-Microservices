@@ -1,3 +1,7 @@
-dev/husein/User.class
-dev/husein/HelloWorldResource.class
+dev/husein/books/model/Bookshelf.class
 dev/husein/APIConfig.class
+dev/husein/HelloWorldResource.class
+dev/husein/books/model/Book.class
+dev/husein/books/model/Author.class
+dev/husein/User.class
+dev/husein/books/apiConfig/BookResource.class
